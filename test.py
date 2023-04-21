@@ -7,3 +7,6 @@ def demo():
 
 demo()
 print(a)
+
+
+print('我愛你')
